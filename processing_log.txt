@@ -1,0 +1,4 @@
+2024-08-11 09:05:16,079 - INFO - Records successfully created.
+2024-08-11 09:05:18,663 - INFO - Processing completed successfully.
+2024-08-11 15:53:41,324 - INFO - Records successfully created.
+2024-08-11 15:53:44,267 - INFO - Processing completed successfully.
