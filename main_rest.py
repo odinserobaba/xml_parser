@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO, filename='processing_log.txt',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Путь к файлу
-file_path = 'data.txt'
+file_path = 'lines.txt'
 
 # Регулярные выражения для извлечения данных
 pattern_inn = re.compile(r'ИННЮЛ="(.*?)"')
